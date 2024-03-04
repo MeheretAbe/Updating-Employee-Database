@@ -50,7 +50,7 @@ HR team of an IT firm, wants comprehensive data analysis regarding employee bonu
 <h4>Task 7.Provide information about employees and their adjusted salaries after 
 araise, based on their respective departments</h4>
 <p align="center">
-<img src="https://i.imgur.com/Sp0nsIB.png" height="60%" width="60%"/>
+<img src="https://i.imgur.com/Sp0nsIB.png" height="70%" width="70%"/>
 <br />
 
  
