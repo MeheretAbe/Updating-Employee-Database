@@ -12,17 +12,27 @@ HR team of a IT firm, wants to update its employee database to accommodate a hyb
 - <b>SQL</b>(MySQL)
 
 <br />
-<h2>Task1. Identify the top five cities that have the maximum number of employees.</h2>
+<h1>Task 1. Identify the top five cities that have the maximum number of employees.</h1>
 <p align="center">
-<img src="https://i.imgur.com/E3pCAf3.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/E3pCAf3.png" height="70%" width="70%"/>
 <br />
-<h2>Task2. List the first names, last names, countries, cities, departments, and salaries of the employees from the top five cities identified in Task 1.</h2>
+<h1>Task 2. List the first names, last names, countries, cities, departments, and salaries of the employees from the top five cities identified in Task 1.</h2>
 <p align="center">
-<img src="https://i.imgur.com/Esb7ajK.png" height="80%" width="80%"/>
-<h2>Task3. List the cities in which the number of employees is less than 10.</h2>
+<img src="https://i.imgur.com/Esb7ajK.png" height="70%" width="70%"/>
+<h1>Task 3. List the cities in which the number of employees is less than 10.</h1>
 <p align="center">
-<img src="https://i.imgur.com/T9fh3ry.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/T9fh3ry.png" height="70%" width="70%"/>
 <br />
+<h1>Task 4. Find the average experience (in years) of the employees of each city identified in Task 3.</h1>
+<p align="center">
+<img src="https://i.imgur.com/tZghniM.png" height="70%" width="70%"/>
+<br />
+<h1>Task 5. The company wants to communicate the work from home policy to those employees who are from the cities identified in Task 1 and have also completed 10 years in the organization..</h1>
+<p align="center">
+<img src="https://i.imgur.com/E3pCAf3.png" height="70%" width="70%"/>
+<br />
+
+
 
  
 <br />
