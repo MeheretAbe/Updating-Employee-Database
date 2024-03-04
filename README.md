@@ -31,13 +31,13 @@ HR team of an IT firm, wants comprehensive data analysis regarding employee bonu
  
 <h4>Task 4. Find the average experience (in years) of the employees of each city identified in Task 3</h4>
 <p align="center">
-<img src="https://i.imgur.com/tZghniM.png" height="60%" width="60%"/>
+<img src="https://i.imgur.com/tZghniM.png" height="70%" width="70%"/>
 <br />
 
  
 <h4>Task 5. The company wants to communicate the work from home policy to those employees who are from the cities identified in Task 1 and have also completed 10 years in the organization</h4>
 <p align="center">
-<img src="https://i.imgur.com/4Bap1kr.png"height="60%" width="60%"/>
+<img src="https://i.imgur.com/4Bap1kr.png"height="70%" width="70%"/>
 <br />
 
  
