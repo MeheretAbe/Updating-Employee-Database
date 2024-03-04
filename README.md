@@ -15,6 +15,7 @@ HR team of an IT firm, wants comprehensive data analysis regarding employee bonu
 <p align="center">
 <img src="https://i.imgur.com/E3pCAf3.png" height="70%" width="70%"/>
 <br />
+<br />
 <h3>Task 2. List the first names, last names, countries, cities, departments, and salaries of the employees from the top five cities identified in Task 1.</h3>
 <p align="center">
 <img src="https://i.imgur.com/Esb7ajK.png" height="70%" width="70%"/>
