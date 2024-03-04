@@ -12,7 +12,7 @@ HR team of a IT firm, wants to update its employee database to accommodate a hyb
 - <b>SQL</b>(MySQL)
 
 <br />
-<h1>Task 1. Identify the top five cities that have the maximum number of employees.</h1>
+<h3>Task 1. Identify the top five cities that have the maximum number of employees.</h1>
 <p align="center">
 <img src="https://i.imgur.com/E3pCAf3.png" height="70%" width="70%"/>
 <br />
