@@ -57,7 +57,7 @@ araise, based on their respective departments</h4>
 <h4>Task 8. Rank employees within each department based on their salary, with the highest salary receiving rank 1, 
 the second-highest rank 2, and so on</h4>
 <p align="center">
-<img src="https://i.imgur.com/SK0gRDf.png" height="60%" width="60%"/>
+<img src="https://i.imgur.com/SK0gRDf.png" height="70%" width="70%"/>
  
 
 <!--
